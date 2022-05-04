@@ -13,6 +13,6 @@
    <h4>communicate effectively in a professional context</h4>
        <img src="https://github.com/mdabdullah121/mdabdullah121/blob/main/image%2040.jfif"alt"kk">
    <h5>define and demonstrate conflict management and resolution strategies</h5>
-     img src="https://github.com/mdabdullah121/mdabdullah121/blob/main/img.webp">
+     img src="">
    </body>
    </html>
