@@ -11,6 +11,7 @@
      <img src="image3.png" alt "kd">
      
    <h4>communicate effectively in a professional context</h4>
+     
    <h5>define and demonstrate conflict management and resolution strategies</h5>
    </body>
    </html>
