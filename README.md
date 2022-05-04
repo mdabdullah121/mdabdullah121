@@ -4,7 +4,7 @@
   </head>
   <body>
    <h1>communicational concepts and strategies</h1>
-    <img src="bap11.jpeg"alt"khalu">
+    <img src="bap11.jpg"alt"khalu">
    <h2>show confidence and skills in oral communications and presentations</h2>
    <h3>work effectively as part of a team</h3>
    <h4>communicate effectively in a professional context</h4>
