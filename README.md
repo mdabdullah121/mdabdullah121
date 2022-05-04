@@ -8,7 +8,7 @@
    <h2>show confidence and skills in oral communications and presentations</h2>
      <img src="bap12.png"alt"kp">
    <h3>work effectively as part of a team</h3>
-     <img src="image3.png" alt "kd">
+     <img src="image30.jpg" alt "kd">
      
    <h4>communicate effectively in a professional context</h4>
      
